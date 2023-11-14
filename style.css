@@ -4,6 +4,9 @@ body{
 #foto{
     width: 100%;
     height: 600px;
+    display: block;
+    padding: 10%;
+    margin: auto;
 }
 .principal{
     background: #a0bbc3;
